@@ -1,9 +1,3 @@
-![image](../images/confluent-logo-300-2.png)
-
-# Overview
-
-This example shows how KSQL can be used to process a stream of click data, aggregate and filter it, and join to information about the users.
-Visualisation of the results is provided by Grafana, on top of data streamed to Elasticsearch. 
 
 # Documentation
 
